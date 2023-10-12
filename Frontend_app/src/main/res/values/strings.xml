@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ergasia</string>
+    <string name="welcome">Distributed Systems 2023</string>
+    <string name="barchart">Distance in km, Elevation in m, Time in minutes, Average speed in km/h. Blue is for current run data, Red for current user data, Green for all user data.</string>
+</resources>
